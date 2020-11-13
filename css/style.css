@@ -24,4 +24,11 @@
 }
 .SearchPage__link ul li a:hover {
   color: black !important;
+  text-decoration: underline;
+}
+.SearchPage__link .tab-content form .form-group input {
+  border-radius: 0;
+}
+.SearchPage__link .tab-content form .form-group .form-control {
+  border-radius: 0;
 }
