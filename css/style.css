@@ -26,6 +26,12 @@
   color: black !important;
   text-decoration: underline;
 }
+
+.SearchPage__link .tab-content .tab-pane form > a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .SearchPage__link .tab-content form .form-group input {
   border-radius: 0;
 }
