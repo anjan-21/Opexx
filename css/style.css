@@ -38,3 +38,14 @@
 .SearchPage__link .tab-content form .form-group .form-control {
   border-radius: 0;
 }
+
+.pricing__page > p {
+  width: 40%;
+}
+.pricing__page .price__cards .card {
+  width: 18rem;
+  height: 35rem;
+}
+.pricing__page .price__cards .card:hover {
+  border-color: var(--primary);
+}
