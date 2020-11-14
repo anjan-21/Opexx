@@ -6,19 +6,24 @@
   box-sizing: border-box;
 }
 
+/* Comman Styling Start */
 .nav-link {
   color: white !important;
   font-size: 1.2rem;
   font-family: "David Libre", serif;
 }
+/* Comman Styling End */
 
+/* Index Page Styling Start */
 .hero_page {
   background: url("../Images/Fantasy-City.jpg") center no-repeat;
   background-size: cover;
   width: 100%;
   height: 92vh;
 }
+/* Index Page Styling End */
 
+/* Search Page Styling Start */
 .SearchPage__link {
   background-color: rgb(103, 196, 233);
 }
@@ -38,7 +43,9 @@
 .SearchPage__link .tab-content form .form-group .form-control {
   border-radius: 0;
 }
+/* Search Page Styling Start */
 
+/* Pricing Page Styling Start */
 .pricing__page > p {
   width: 40%;
 }
@@ -49,3 +56,4 @@
 .pricing__page .price__cards .card:hover {
   border-color: var(--primary);
 }
+/* Pricing Page Styling End */
